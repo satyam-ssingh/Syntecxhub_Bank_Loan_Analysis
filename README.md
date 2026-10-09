@@ -140,7 +140,7 @@ All KPIs, good vs bad loan metrics, loan status summaries and overview breakdown
 | File | Description |
 |---|---|
 | `Bank_Loan_Analysis_Dashboard.pbix` | Power BI dashboard |
-| `Bank_Loan_Report_Query_Document_Colorful.docx` | SQL queries and outputs for all KPIs |
+| `Bank_Loan_Report_Query_Document.docx` | SQL queries and outputs for all KPIs |
 | `financial_loan.csv` | Raw dataset |
 | `Summary.png`, `Overview.png`, `Details.png` | Dashboard screenshots |
 | `README.md` | Project documentation |
